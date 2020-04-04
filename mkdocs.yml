@@ -1,9 +1,19 @@
-site_name: flask-vuejs
+site_name: FlaskVue
+site_description: Connect the Flask with VueJS.
+
 theme:
   name: 'material'
   palette:
     primary: 'teal'
     accent: 'teal'
+
+# Repository
+repo_name: 'pacotei/flask-vuejs'
+repo_url: 'https://github.com/pacotei/flask-vuejs'
+
+# Copyright
+copyright: 'Copyright &copy; 2020 - Pacotei created by Marcus Pereira'
+
 
 markdown_extensions:
   - codehilite
