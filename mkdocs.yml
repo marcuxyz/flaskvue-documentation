@@ -12,3 +12,6 @@ plugins:
   - search
   - minify:
       minify_html: true
+
+nav:
+  - Introduction: 'index.md'
