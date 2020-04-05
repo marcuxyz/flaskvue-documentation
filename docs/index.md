@@ -38,7 +38,7 @@ $ npm -v
 ## Creating your first application
 
 ```sh
-(.venv) $ flask-vuejs init
+(.venv) $ flask vue init
 ``` 
 
 
