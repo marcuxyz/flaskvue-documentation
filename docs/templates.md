@@ -1,7 +1,7 @@
 # Templates
 
 The Flask-vuejs extension create for you a `base.html` template. However, is necessary
-inherit from this template. This session shows you how to do this.
+inherit from this template. This section shows you how to do this.
 
 ## Creating your base template
 
