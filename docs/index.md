@@ -20,8 +20,9 @@ Install with `pip`
 
 ## Requirements
 
-
-#### NodeJS & NPM 
+- NodeJS 9 +
+- NPM
+- Python 3.6 +
 
 Follow the instruction for your OS [here](https://nodejs.org/en/download/package-manager/) to install **NodeJS** and **NPM**
 
