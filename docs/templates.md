@@ -26,4 +26,8 @@ To do this, use the content block to start the block and then place the componen
 
 When you do this, you will receive a message on the web like this: `Hello Pacotei`. 
 
-Verify in [http://localhost:5000](http://localhost:5000).
+Verify in [http://localhost:5000](http://localhost:5000). 
+
+## Demo
+
+You can see a [demo](https://github.com/pacotei/flask-vuejs/blob/master/sample_app/templates/form.html)
