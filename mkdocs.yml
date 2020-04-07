@@ -26,3 +26,4 @@ plugins:
 nav:
   - Introduction: 'index.md'
   - Templates: 'templates.md'
+  - Components: 'components.md'
