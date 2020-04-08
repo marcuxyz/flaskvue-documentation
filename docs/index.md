@@ -35,6 +35,28 @@ $ npm -v
 6.14.4
 ```
 
+## Register extension in application
+
+```python
+from flask_vuejs import Vue
+``` 
+You can instance the Vue class, passing the app as argument
+
+```python
+Vue(app)
+``` 
+
+Or use factory function
+
+```python
+vue = Vue()
+
+def create_app():
+  ...
+  vue.init_app(app)
+```
+
+Now, you can use **flask-vue-cli** commands.
 
 ## Creating your first application
 
